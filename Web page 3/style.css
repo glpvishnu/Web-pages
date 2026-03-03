@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 200vh;
+    text-align: center;
+}
+
+.main-heading {
+    font-family: "Bree serif";
+    color: #ffffff;
+    font-size: 30px;
+    margin: 40px;
+}
+
+.button {
+    background-color: #8e97fd;
+    width: 110px;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+.main-para {
+    font-family: "Bree serif";
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.button-center {
+    text-align: center;
+}
+
+.img-style {
+    height: 200px;
+    width: 280px;
+    margin: 20px;
+}
+
+.night-island-img {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 40vh;
+    margin: 20px;
+}
+
+.music-back-img {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/clouds-img.png");
+    background-size: cover;
+    height: 50vh;
+}
+
+.back-color {
+    background-color: #03174c;
+}
+
+.main-heading-detail-page {
+    font-family: "Bree serif";
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.para-detail-page {
+    font-family: "Bree serif";
+    color: #98a1bd;
+    font-size: 15px;
+}
+
+.pad {
+    padding: 20px;
+}
+
+.detail-img {
+    height: 80px;
+    width: 120px;
+}
+
+.para-detail-page-down {
+    font-family: "Bree serif";
+    color: #98a1bd;
+    font-size: 12px;
+}
+
+.main-heading-detail-page-down {
+    font-family: "Bree serif";
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.mr-img {
+    margin: 10px;
+}
